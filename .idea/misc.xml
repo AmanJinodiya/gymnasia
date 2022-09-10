@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/drawable/editext.xml" value="0.192" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/drawable/gradient1.xml" value="0.192" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.192" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.192" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/drawable/list_iem.xml" value="0.192" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/drawable/search.xml" value="0.192" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/activity_add_workout.xml" value="0.2" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/activity_dash.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/activity_details.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/activity_otp_login.xml" value="0.152" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/activity_otpactivity.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/detail_list_item.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/extra_acc_toggle.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/fragment_signin.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/fragment_signup.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/list_item.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/list_item_add_workout.xml" value="0.264" />
+        <entry key="..\:/Android Projects/gymnasia/app/src/main/res/layout/number_picker.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
